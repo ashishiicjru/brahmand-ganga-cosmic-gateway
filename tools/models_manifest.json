@@ -1,0 +1,46 @@
+{
+  "models": [
+    {
+      "name": "Saturn V (NASA)",
+      "path": "models/rockets/saturn-v.glb",
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Saturn%20V/Saturn%20V.glb",
+      "license": "NASA 3D Resources; follow NASA media guidelines"
+    },
+    {
+      "name": "Explorer Jupiter-C Rocket (NASA)",
+      "path": "models/rockets/explorer-jupiter-c.glb",
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Explorer%20Jupiter-C%20Rocket/Explorer%20Jupiter-C%20Rocket.glb",
+      "license": "NASA 3D Resources; follow NASA media guidelines"
+    },
+    {
+      "name": "GOES Spacecraft (NASA)",
+      "path": "models/satellites/goes.glb",
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/GOES%20Spacecraft/GOES%20Spacecraft.glb",
+      "license": "NASA 3D Resources; follow NASA media guidelines"
+    },
+    {
+      "name": "Shark",
+      "path": "models/sea/shark.glb",
+      "url": "https://raw.githubusercontent.com/bob6664569/open-water/main/site/assets/animals/fish/shark.glb",
+      "license": "CC BY 4.0"
+    },
+    {
+      "name": "Blue Whale",
+      "path": "models/sea/blue-whale-textured.glb",
+      "url": "https://raw.githubusercontent.com/bob6664569/open-water/main/site/assets/animals/blue_whale_-_textured.glb",
+      "license": "CC BY 4.0"
+    },
+    {
+      "name": "Tropical Fish School",
+      "path": "models/sea/tropical-fish-school.glb",
+      "url": "https://raw.githubusercontent.com/bob6664569/open-water/main/site/assets/animals/fish/tropical-fish-school-512.glb",
+      "license": "CC BY 4.0"
+    },
+    {
+      "name": "Starfish",
+      "path": "models/sea/starfish.glb",
+      "url": "https://raw.githubusercontent.com/bob6664569/open-water/main/site/assets/animals/asteroid_starfish_or_seastar.glb",
+      "license": "CC0 1.0"
+    }
+  ]
+}

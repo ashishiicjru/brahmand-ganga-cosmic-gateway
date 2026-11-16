@@ -1,0 +1,61 @@
+{
+  "models": [
+    {
+      "name": "Saturn V (NASA)",
+      "path": "models/rockets/saturn-v.glb",
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Saturn%20V/Saturn%20V.glb",
+      "license": "NASA 3D Resources; follow NASA media guidelines",
+      "sha256": "6c44497bce54ee0b09d0edb8e33a6f484762a320dab1c54b383e434f5bba06b5"
+    },
+    {
+      "name": "Explorer Jupiter-C Rocket (NASA)",
+      "path": "models/rockets/explorer-jupiter-c.glb",
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Explorer%20Jupiter-C%20Rocket/Explorer%20Jupiter-C%20Rocket.glb",
+      "license": "NASA 3D Resources; follow NASA media guidelines",
+      "sha256": "6584639c0cdb982de8bfb24682c3f541789b73a396d11e95e564a78862393460"
+    },
+    {
+      "name": "GOES Spacecraft (NASA)",
+      "path": "models/satellites/goes.glb",
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/GOES%20Spacecraft/GOES%20Spacecraft.glb",
+      "license": "NASA 3D Resources; follow NASA media guidelines"
+    },
+    {
+      "name": "Shark",
+      "path": "models/sea/shark.glb",
+      "url": "https://raw.githubusercontent.com/bob6664569/open-water/main/site/assets/animals/fish/shark.glb",
+      "license": "CC BY 4.0",
+      "sha256": "1056b1bc09f11e259aca73f7d56e7b614ddff64299c2530990e792878a6a6610"
+    },
+    {
+      "name": "Blue Whale",
+      "path": "models/sea/blue-whale-textured.glb",
+      "url": "https://raw.githubusercontent.com/bob6664569/open-water/main/site/assets/animals/blue_whale_-_textured.glb",
+      "license": "CC BY 4.0",
+      "sha256": "9e1f6eb4d8ace554d8cc324925ae7141c2505419587a2062d218c66208b5f8d0"
+    },
+    {
+      "name": "Tropical Fish School",
+      "path": "models/sea/tropical-fish-school.glb",
+      "url": "https://raw.githubusercontent.com/bob6664569/open-water/main/site/assets/animals/fish/tropical-fish-school-512.glb",
+      "license": "CC BY 4.0"
+    },
+    {
+      "name": "Starfish",
+      "path": "models/sea/starfish.glb",
+      "url": "https://raw.githubusercontent.com/bob6664569/open-water/main/site/assets/animals/asteroid_starfish_or_seastar.glb",
+      "license": "CC0 1.0",
+      "sha256": "65e82d752e60a54d752d050c11ea9507f62ff5f405965c87a414bd4fd7c2c4d9"
+    }
+  ],
+  "failed": [
+    [
+      "GOES Spacecraft (NASA)",
+      "HTTP Error 404: Not Found"
+    ],
+    [
+      "Tropical Fish School",
+      "HTTP Error 404: Not Found"
+    ]
+  ]
+}
